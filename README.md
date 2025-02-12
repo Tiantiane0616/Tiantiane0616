@@ -23,9 +23,6 @@
       <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tiantiane0616&show_icons=true">
     </picture>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/toplangs/?username=Tiantiane0616&layout=compact&theme=dark&hide_border=true">
-  </a>
 </div>
 
 <!-- WakaTime Stats -->
