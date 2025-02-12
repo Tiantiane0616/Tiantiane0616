@@ -56,13 +56,13 @@
 <!-- 联系信息 -->
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tiantiane0616@126.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/tiantiane">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
   </a>
 </p>
