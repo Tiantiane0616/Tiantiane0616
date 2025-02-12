@@ -6,16 +6,10 @@
 <!-- 技术栈徽章 -->
 <h3 align="center">🛠 Tech Stack & Tools</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white">
 </p>
 
 <!-- 统计卡片布局 -->
@@ -45,13 +39,31 @@
 <!-- 项目展示 -->
 <h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
-  <a href="https://github.com/Tiantiane0616/your-project-1">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiantiane0616&repo=your-project-1&theme=dark">
+  <a href="https://github.com/Tiantiane0616/tiantiane0616.github.io">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiantiane0616&repo=tiantiane0616.github.io&theme=dark">
   </a>
-  <a href="https://github.com/Tiantiane0616/your-project-2">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiantiane0616&repo=your-project-2&theme=dark">
+  <a href="https://github.com/Tiantiane0616/tiantiane0616">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiantiane0616&repo=tiantiane0616&theme=dark">
   </a>
 </div>
+
+<!-- BDSM 测试结果 -->
+<h2 align="center">🎭 BDSM Test Results</h2>
+
+| 角色类型          | 得分   | 角色定位      |  
+|--------------------|--------|---------------|  
+| 受辱者（Degradee） | 10.2   | 被动/服从     |  
+| 受虐者（Masochist）| 10.0   | 被动/服从     |  
+| 奴隶（Slave）      | 10.0   | 被动/服从     |  
+| 臣服者（Submissive）| 10.0  | 被动/服从     |  
+| 小孩（Boy/Girl）   | 10.0   | 被动/依赖     |  
+| 淘气鬼（Brat）     | 10.0   | 被动/挑衅     |  
+| 宠物（Pet）        | 10.0   | 被动/服务     |  
+| 变龄者（Ageplayer）| 10.0   | 角色扮演      |  
+| 受缚者（Rope bunny）| 10.0  | 被动/束缚     |  
+| 猎物（Primal Prey）| 9.5    | 被动/逃避     |  
+
+---
 
 <!-- 联系信息 -->
 <h2 align="center">📫 Connect With Me</h2>
@@ -59,8 +71,8 @@
   <a href="mailto:tiantiane0616@126.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  <a href="https://space.bilibili.com/1726739884">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white">
   </a>
   <a href="https://twitter.com/tiantiane">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
