@@ -1,8 +1,8 @@
 <!-- Dynamic Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Open+Source+Enthusiast;Continuous+Learner" alt="Dynamic Title">
-
 </div>
+
 [查看中文版本（Read Chinese Version）](AboutMe_CN.md)
 
 <!-- Tech Stack Badges -->
